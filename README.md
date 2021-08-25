@@ -1,6 +1,6 @@
 # ESP Wi-Fi Beacon Spam
 
-Broadcast multiple WiFi SSID's from a single ESP8266/ESP32 module
+Broadcast multiple Wi-Fi SSID's from a single ESP8266/ESP32 module
 
 Project in progres!!!!
 
