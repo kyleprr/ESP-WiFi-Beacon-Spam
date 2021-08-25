@@ -2,6 +2,8 @@
 
 Broadcast multiple WiFi SSID's from a single ESP8266/ESP32 module
 
+Project in progres!!!!
+
 Credits:
 ESP8266:
 https://github.com/spacehuhn/esp8266_beaconSpam
